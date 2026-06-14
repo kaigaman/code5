@@ -1,2 +1,2 @@
--keep class com.codepanda.app.network.models.** { *; }
--keepclassmembers class com.codepanda.app.network.models.** { *; }
+-keep class online.code5.app.network.models.** { *; }
+-keepclassmembers class online.code5.app.network.models.** { *; }

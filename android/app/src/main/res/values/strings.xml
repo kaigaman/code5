@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Code Panda Computers</string>
+    <string name="app_name">Code5</string>
     <string name="nav_home">Home</string>
+    <string name="nav_services">Services</string>
     <string name="nav_domains">Domains</string>
-    <string name="nav_whatsapp">WhatsApp</string>
     <string name="nav_account">Account</string>
+    <string name="nav_whatsapp">WhatsApp</string>
     <string name="domain_checker_title">Domain Checker</string>
     <string name="domain_hint">Enter domain name…</string>
     <string name="btn_search">Search</string>
@@ -20,7 +21,7 @@
     <string name="no_internet">No internet connection</string>
     <string name="loading">Loading…</string>
     <string name="whatsapp_title">Order via WhatsApp</string>
-    <string name="whatsapp_message">Hi Code Panda! I would like to place an order.</string>
+    <string name="whatsapp_message">Hi Code5! I would like to make an enquiry.</string>
     <string name="btn_open_whatsapp">Open WhatsApp</string>
     <string name="account_title">My Account</string>
     <string name="privacy_policy">Privacy Policy</string>
@@ -28,7 +29,7 @@
     <string name="settings">Settings</string>
     <string name="clear_cache">Clear Cache</string>
     <string name="cache_cleared">Cache cleared</string>
-    <string name="app_description">Code Panda Computers - Web Hosting &amp; Domain Registration in Uganda</string>
+    <string name="app_description">Code5 - Web Hosting &amp; Domain Registration in Uganda</string>
     <string name="enter_domain">Please enter a domain</string>
     <string name="domain_unavailable">%s is Not Available</string>
     <string name="no_whois_data">No WHOIS data found</string>
@@ -36,4 +37,32 @@
     <string name="whois_result">WHOIS Result for %s</string>
     <string name="chat_with_us">Chat with us on WhatsApp to place your order. Tell us what you need and we\'ll help you get started!</string>
     <string name="at_price">at %s</string>
+    <string name="home_hero_title">Reliable Web Hosting &amp; Domain Services in Uganda</string>
+    <string name="home_hero_subtitle">Fast, secure, and affordable hosting solutions for your business</string>
+    <string name="home_featured_services">Our Services</string>
+    <string name="service_web_hosting">Web Hosting</string>
+    <string name="service_web_hosting_desc">Fast and reliable shared hosting for your website</string>
+    <string name="service_domains">Domain Registration</string>
+    <string name="service_domains_desc">Register your domain name with .ug, .com, .org and more</string>
+    <string name="service_vps">VPS Hosting</string>
+    <string name="service_vps_desc">Virtual private servers with full root access</string>
+    <string name="service_ssl">SSL Certificates</string>
+    <string name="service_ssl_desc">Secure your website with trusted SSL certificates</string>
+    <string name="service_email">Email Hosting</string>
+    <string name="service_email_desc">Professional business email hosting solutions</string>
+    <string name="service_dedicated">Dedicated Servers</string>
+    <string name="service_dedicated_desc">High-performance dedicated server hosting</string>
+    <string name="service_reseller">Reseller Hosting</string>
+    <string name="service_reseller_desc">Start your own web hosting business</string>
+    <string name="service_security">Website Security</string>
+    <string name="service_security_desc">Protect your site with advanced security tools</string>
+    <string name="btn_view_details">View Details</string>
+    <string name="btn_order_now">Order Now</string>
+    <string name="btn_view_pricing">View Pricing</string>
+    <string name="btn_contact_us">Contact Us</string>
+    <string name="section_features">Features</string>
+    <string name="section_pricing">Pricing</string>
+    <string name="price_from">From %s/mo</string>
+    <string name="search_domain_hint">Search for a domain…</string>
+    <string name="tagline">Hosting Uganda Trusts</string>
 </resources>
