@@ -1,0 +1,807 @@
+{
+  "categories": [
+    {
+      "slug": "web-hosting",
+      "name": "Web Hosting",
+      "icon": "server",
+      "order": 1
+    },
+    {
+      "slug": "cloud-hosting",
+      "name": "Cloud Hosting",
+      "icon": "cloud",
+      "order": 2
+    },
+    {
+      "slug": "vps-hosting",
+      "name": "VPS Hosting",
+      "icon": "database",
+      "order": 3
+    },
+    {
+      "slug": "dedicated-servers",
+      "name": "Dedicated Servers",
+      "icon": "hard-drive",
+      "order": 4
+    },
+    {
+      "slug": "reseller-hosting",
+      "name": "Reseller Hosting",
+      "icon": "users",
+      "order": 5
+    },
+    {
+      "slug": "ssl-certificates",
+      "name": "SSL Certificates",
+      "icon": "shield",
+      "order": 6
+    },
+    {
+      "slug": "email-hosting",
+      "name": "Email Hosting",
+      "icon": "mail",
+      "order": 7
+    },
+    {
+      "slug": "domains",
+      "name": "Domains",
+      "icon": "globe",
+      "order": 8
+    }
+  ],
+  "domains": [
+    {
+      "tld": ".com",
+      "register": 40000,
+      "renew": 40000,
+      "transfer": 40000,
+      "popular": true
+    },
+    {
+      "tld": ".net",
+      "register": 40000,
+      "renew": 40000,
+      "transfer": 40000,
+      "popular": true
+    },
+    {
+      "tld": ".org",
+      "register": 40000,
+      "renew": 40000,
+      "transfer": 40000,
+      "popular": true
+    },
+    {
+      "tld": ".info",
+      "register": 70000,
+      "renew": 70000,
+      "transfer": 70000
+    },
+    {
+      "tld": ".biz",
+      "register": 70000,
+      "renew": 70000,
+      "transfer": 70000,
+      "popular": true
+    },
+    {
+      "tld": ".me",
+      "register": 60000,
+      "renew": 60000,
+      "transfer": 60000
+    },
+    {
+      "tld": ".co",
+      "register": 90000,
+      "renew": 90000,
+      "transfer": 90000
+    },
+    {
+      "tld": ".tv",
+      "register": 110000,
+      "renew": 110000,
+      "transfer": 110000
+    },
+    {
+      "tld": ".shop",
+      "register": 130000,
+      "renew": 130000,
+      "transfer": 130000
+    },
+    {
+      "tld": ".church",
+      "register": 110000,
+      "renew": 110000,
+      "transfer": 110000
+    },
+    {
+      "tld": ".app",
+      "register": 70000,
+      "renew": 70000,
+      "transfer": 70000
+    },
+    {
+      "tld": ".africa",
+      "register": 80000,
+      "renew": 80000,
+      "transfer": 80000
+    },
+    {
+      "tld": ".tours",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000,
+      "popular": true
+    },
+    {
+      "tld": ".co.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000,
+      "popular": true
+    },
+    {
+      "tld": ".or.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".ac.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".sc.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".go.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".org.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".com.ug",
+      "register": 100000,
+      "renew": 100000,
+      "transfer": 100000
+    },
+    {
+      "tld": ".co.uk",
+      "register": 50000,
+      "renew": 50000,
+      "transfer": 50000
+    },
+    {
+      "tld": ".org.uk",
+      "register": 50000,
+      "renew": 50000,
+      "transfer": 50000
+    }
+  ],
+  "products": [
+    {
+      "id": "web-economy",
+      "category": "web-hosting",
+      "category_name": "Web Hosting",
+      "name": "Economy Web Hosting",
+      "slug": "economy-web-hosting",
+      "description": "Reliable Linux hosting with guaranteed resources and unmatched security.",
+      "price": 50000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "1 GB SSD Storage",
+        "Email accounts",
+        "Latest cPanel",
+        "Softaculous Apps",
+        "MariaDB",
+        "Unlimited Bandwidth",
+        "99.9% Network uptime",
+        "Multiple php versions",
+        "Enhanced Security"
+      ],
+      "order_url": "https://core.code5.ug/order/economy-web-hosting"
+    },
+    {
+      "id": "web-deluxe",
+      "category": "web-hosting",
+      "category_name": "Web Hosting",
+      "name": "Deluxe Web Hosting",
+      "slug": "deluxe-web-hosting",
+      "description": "Packed with great tools to protect your website against a wide range of attacks.",
+      "price": 80000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "5 GB SSD Storage",
+        "Email accounts",
+        "Latest cPanel",
+        "Softaculous Apps",
+        "MariaDB",
+        "Unlimited Bandwidth",
+        "99.9% Network uptime",
+        "Multiple php versions",
+        "Enhanced Security"
+      ],
+      "order_url": "https://core.code5.ug/order/deluxe-web-hosting"
+    },
+    {
+      "id": "web-premium",
+      "category": "web-hosting",
+      "category_name": "Web Hosting",
+      "name": "Premium Web Hosting",
+      "slug": "premium-web-hosting",
+      "description": "Great experience while using your hosting package on our server.",
+      "price": 120000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "10 GB SSD Storage",
+        "Email accounts",
+        "Latest cPanel",
+        "Softaculous Apps",
+        "MariaDB",
+        "Unlimited Bandwidth",
+        "99.9% Network uptime",
+        "Multiple php versions",
+        "Enhanced Security"
+      ],
+      "order_url": "https://core.code5.ug/order/premium-web-hosting"
+    },
+    {
+      "id": "web-ultra",
+      "category": "web-hosting",
+      "category_name": "Web Hosting",
+      "name": "Ultra Web Hosting",
+      "slug": "ultra-web-hosting",
+      "description": "Easy to use, fast and secure. Experience the best website hosting technology.",
+      "price": 150000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "15 GB SSD Storage",
+        "Email accounts",
+        "Latest cPanel",
+        "Softaculous Apps",
+        "MariaDB",
+        "Unlimited Bandwidth",
+        "99.9% Network uptime",
+        "Multiple php versions",
+        "Enhanced Security"
+      ],
+      "order_url": "https://core.code5.ug/order/ultra-web-hosting"
+    },
+    {
+      "id": "web-corporate",
+      "category": "web-hosting",
+      "category_name": "Web Hosting",
+      "name": "Corporate Web Hosting",
+      "slug": "corporate-web-hosting",
+      "description": "NVMe drives for loading speed and performance of your website.",
+      "price": 230000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "20 GB SSD Storage",
+        "Email accounts",
+        "Latest cPanel",
+        "Softaculous Apps",
+        "MariaDB",
+        "Unlimited Bandwidth",
+        "99.9% Network uptime",
+        "Multiple php versions",
+        "Enhanced Security"
+      ],
+      "order_url": "https://core.code5.ug/order/corporate-web-hosting"
+    },
+    {
+      "id": "cloud-s1",
+      "category": "cloud-hosting",
+      "category_name": "Cloud Hosting",
+      "name": "Hyperslice Cloud S1",
+      "slug": "hyperslice-cloud-s1",
+      "description": "Cloud hosting with high availability and uptime using distributed architecture.",
+      "price": 250000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "10 GB SSD Storage",
+        "cPanel Access",
+        "SSH Access",
+        "Cron Jobs",
+        "MariaDB/PostgreSQL",
+        "Node.js/Python Version Selector",
+        "ImageMagick",
+        "PHP Version Selector",
+        "IP Deny Manager",
+        "Hotlink Protection",
+        "Unlimited Sub Domains",
+        "phpMyAdmin",
+        "SSL Certificates (Let's Encrypt)",
+        "Daily Backups"
+      ],
+      "order_url": "https://core.code5.ug/order/cloud-s1"
+    },
+    {
+      "id": "cloud-s2",
+      "category": "cloud-hosting",
+      "category_name": "Cloud Hosting",
+      "name": "Hyperslice Cloud S2",
+      "slug": "hyperslice-cloud-s2",
+      "description": "Enhanced cloud hosting with more resources for growing websites.",
+      "price": 350000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "10 GB SSD Storage",
+        "cPanel Access",
+        "SSH Access",
+        "Cron Jobs",
+        "MariaDB/PostgreSQL",
+        "Node.js/Python Version Selector",
+        "ImageMagick",
+        "PHP Version Selector",
+        "IP Deny Manager",
+        "Hotlink Protection",
+        "Unlimited Sub Domains",
+        "phpMyAdmin",
+        "SSL Certificates (Let's Encrypt)",
+        "Daily Backups"
+      ],
+      "order_url": "https://core.code5.ug/order/cloud-s2"
+    },
+    {
+      "id": "cloud-s3",
+      "category": "cloud-hosting",
+      "category_name": "Cloud Hosting",
+      "name": "Hyperslice Cloud S3",
+      "slug": "hyperslice-cloud-s3",
+      "description": "Premium cloud hosting for resource-intensive applications.",
+      "price": 500000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "10 GB SSD Storage",
+        "cPanel Access",
+        "SSH Access",
+        "Cron Jobs",
+        "MariaDB/PostgreSQL",
+        "Node.js/Python Version Selector",
+        "ImageMagick",
+        "PHP Version Selector",
+        "IP Deny Manager",
+        "Hotlink Protection",
+        "Unlimited Sub Domains",
+        "phpMyAdmin",
+        "SSL Certificates (Let's Encrypt)",
+        "Daily Backups"
+      ],
+      "order_url": "https://core.code5.ug/order/cloud-s3"
+    },
+    {
+      "id": "vps-starter",
+      "category": "vps-hosting",
+      "category_name": "VPS Hosting",
+      "name": "VPS Starter",
+      "slug": "vps-starter",
+      "description": "Perfect entry point for getting into a managed VPS with dedicated resources.",
+      "price": 1000000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "vCPU: 2 Cores",
+        "vRAM: 2GB",
+        "Disk (SSD): 20GB",
+        "Traffic: 2TB",
+        "1 Dedicated IPv4",
+        "Remote and VNC Access",
+        "+10 Available Locations",
+        "SSH Access",
+        "DDoS Protection",
+        "All Linux versions"
+      ],
+      "order_url": "https://core.code5.ug/order/vps-starter"
+    },
+    {
+      "id": "vps-medium",
+      "category": "vps-hosting",
+      "category_name": "VPS Hosting",
+      "name": "VPS Medium",
+      "slug": "vps-medium",
+      "description": "Balanced VPS with dedicated CPU, RAM, and SSD for growing applications.",
+      "price": 1500000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "vCPU: 4 Cores",
+        "vRAM: 4GB",
+        "Disk (SSD): 40GB",
+        "Traffic: 4TB",
+        "2 Dedicated IPv4",
+        "Remote and VNC Access",
+        "+10 Available Locations",
+        "SSH Access",
+        "DDoS Protection",
+        "All Linux versions"
+      ],
+      "order_url": "https://core.code5.ug/order/vps-medium"
+    },
+    {
+      "id": "vps-advanced",
+      "category": "vps-hosting",
+      "category_name": "VPS Hosting",
+      "name": "VPS Advanced",
+      "slug": "vps-advanced",
+      "description": "High-performance VPS for demanding workloads with 8 vCPU cores.",
+      "price": 2000000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "vCPU: 8 Cores",
+        "vRAM: 8GB",
+        "Disk (SSD): 80GB",
+        "Traffic: 8TB",
+        "3 Dedicated IPv4",
+        "Remote and VNC Access",
+        "+10 Available Locations",
+        "SSH Access",
+        "DDoS Protection",
+        "All Linux versions"
+      ],
+      "order_url": "https://core.code5.ug/order/vps-advanced"
+    },
+    {
+      "id": "ds-e3-8gb",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "Rapid Deploy Server (E3 8GB)",
+      "slug": "dedicated-e3-8gb",
+      "description": "Affordable entry level dedicated server with global network support.",
+      "price": 500000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": false,
+      "features": [
+        "Intel Xeon E3 1230 V3",
+        "8GB DDR3",
+        "64GB SSD",
+        "Port speed: Dedicated",
+        "Bandwidth: 1 Gbps",
+        "OS: AlmaLinux",
+        "1 IP Address",
+        "DDoS Protection"
+      ],
+      "order_url": "https://core.code5.ug/order/dedicated-e3-8gb"
+    },
+    {
+      "id": "ds-e3-32gb",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "Rapid Deploy Server (E3 32GB)",
+      "slug": "dedicated-e3-32gb",
+      "description": "Bare Metal server with maximum flexibility and custom configuration.",
+      "price": 700000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": false,
+      "features": [
+        "Intel Xeon E3 1230 V3",
+        "32 GB DDR3",
+        "256 GB SSD",
+        "Port Speed: Dedicated",
+        "Bandwidth: 1 Gbps",
+        "OS: AlmaLinux",
+        "1 IP",
+        "DDoS Protection"
+      ],
+      "order_url": "https://core.code5.ug/order/dedicated-e3-32gb"
+    },
+    {
+      "id": "ds-e-2136",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "E-2136 Coffee Lake Xeon",
+      "slug": "e-2136-coffee-lake-xeon",
+      "description": "High-performance dedicated server with dedicated resources.",
+      "price": 1000000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": false,
+      "features": [
+        "Processor: 3.3GHz Hexa-Core",
+        "Memory: 16 GB",
+        "240GB SSD",
+        "Bandwidth: 20 TB on 1Gbps port",
+        "OS: CentOS 7.x",
+        "Managed Services: Managed",
+        "DDOS: Filtering Edge of Network System"
+      ],
+      "order_url": "https://core.code5.ug/order/e-2136-coffee-lake-xeon"
+    },
+    {
+      "id": "ds-e-2236",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "E-2236 Coffee Lake Xeon",
+      "slug": "e-2236-coffee-lake-xeon",
+      "description": "Pre-configured server ready for delivery in 45 minutes or less.",
+      "price": 1450000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": false,
+      "features": [
+        "Processor: 3.4GHz Hexa-Core",
+        "Memory: 16 GB",
+        "480GB SSD",
+        "Bandwidth: 20 TB on 1Gbps port",
+        "OS: CentOS 7.x",
+        "Managed Services: Managed",
+        "Internal Network: 1 Gbps",
+        "DDOS: Filtering Edge of Network System"
+      ],
+      "order_url": "https://core.code5.ug/order/dedicated-e2236"
+    },
+    {
+      "id": "ds-e-2288g",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "E-2288G Coffee Lake Xeon",
+      "slug": "e-2288g-coffee-lake-xeon",
+      "description": "High quality server built with premium components for demanding workloads.",
+      "price": 2000000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": false,
+      "features": [
+        "Processor: 3.7GHz Octa-Core",
+        "Memory: 48 GB",
+        "960GB SSD",
+        "Bandwidth: 20 TB on 1Gbps port",
+        "OS: CentOS 7.x",
+        "Managed Services: Managed",
+        "Internal Network: 1 Gbps",
+        "DDOS: Filtering Edge of Network System"
+      ],
+      "order_url": "https://core.code5.ug/order/e-2288g-coffee-lake-xeon"
+    },
+    {
+      "id": "ds-enterprise-4216",
+      "category": "dedicated-servers",
+      "category_name": "Dedicated Servers",
+      "name": "Enterprise 4216 16 Core",
+      "slug": "enterprise-4216-16-core",
+      "description": "Enterprise-level processing power in a single tenant environment.",
+      "price": 3000000,
+      "currency": "UGX",
+      "period": "month",
+      "popular": true,
+      "features": [
+        "Processor: 2.1GHz 16-Core",
+        "Memory: 48 GB",
+        "960GB SSD",
+        "Bandwidth: 20 TB on 1Gbps port",
+        "OS: CentOS 7.x",
+        "Managed Services: Managed",
+        "Internal Network: 1 Gbps",
+        "DDOS: Filtering Edge of Network System"
+      ],
+      "order_url": "https://core.code5.ug/order/dedicated-enterprise-4216"
+    },
+    {
+      "id": "reseller-basic",
+      "category": "reseller-hosting",
+      "category_name": "Reseller Hosting",
+      "name": "Basic Reseller",
+      "slug": "basic-reseller",
+      "description": "Perfect for managing multiple websites with cPanel WHM access.",
+      "price": 500000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "10 GB SSD Storage",
+        "WordPress Optimized Environment",
+        "Unmetered Data Transfer",
+        "cPanel Control Panel",
+        "Auto Backup & Cloud Storage",
+        "Free Supersonic CDN",
+        "24 Hours Website Migration",
+        "Automatic SSL installation",
+        "24x7 Phone & Live Support"
+      ],
+      "order_url": "https://core.code5.ug/order/reseller-basic"
+    },
+    {
+      "id": "reseller-premium",
+      "category": "reseller-hosting",
+      "category_name": "Reseller Hosting",
+      "name": "Premium Reseller",
+      "slug": "premium-reseller",
+      "description": "Enhanced reseller hosting with more storage and features.",
+      "price": 1000000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "20 GB SSD Storage",
+        "WordPress Optimized Environment",
+        "Unmetered Data Transfer",
+        "cPanel Control Panel",
+        "Auto Backup & Cloud Storage",
+        "Free Supersonic CDN",
+        "24 Hours Website Migration",
+        "Automatic SSL installation",
+        "24x7 Phone & Live Support"
+      ],
+      "order_url": "https://core.code5.ug/order/reseller-premium"
+    },
+    {
+      "id": "reseller-supreme",
+      "category": "reseller-hosting",
+      "category_name": "Reseller Hosting",
+      "name": "Supreme Reseller",
+      "slug": "supreme-reseller",
+      "description": "Maximum storage and resources for large-scale reseller operations.",
+      "price": 1500000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "30 GB SSD Storage",
+        "WordPress Optimized Environment",
+        "Unmetered Data Transfer",
+        "cPanel Control Panel",
+        "Auto Backup & Cloud Storage",
+        "Free Supersonic CDN",
+        "24 Hours Website Migration",
+        "Automatic SSL installation",
+        "24x7 Phone & Live Support"
+      ],
+      "order_url": "https://core.code5.ug/order/reseller-supreme"
+    },
+    {
+      "id": "ssl-dv",
+      "category": "ssl-certificates",
+      "category_name": "SSL Certificates",
+      "name": "DV SSL Certificate",
+      "slug": "dv-ssl",
+      "description": "Basic protection for your website and help with Google rankings.",
+      "price": 50000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "Secure customer information",
+        "May help boost Google rankings",
+        "TrustLogo Site Seal",
+        "Protect multiple subdomains",
+        "Enhanced e-commerce conversion"
+      ],
+      "order_url": "https://core.code5.ug/order/dv-ssl"
+    },
+    {
+      "id": "ssl-ov",
+      "category": "ssl-certificates",
+      "category_name": "SSL Certificates",
+      "name": "OV SSL Certificate",
+      "slug": "ov-ssl",
+      "description": "Secure your main website and subdomains with organization validation.",
+      "price": 250000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "Secure customer information",
+        "May help boost Google rankings",
+        "TrustLogo Site Seal",
+        "Protect multiple subdomains",
+        "Enhanced e-commerce conversion"
+      ],
+      "order_url": "https://core.code5.ug/order/ov-ssl"
+    },
+    {
+      "id": "ssl-ev",
+      "category": "ssl-certificates",
+      "category_name": "SSL Certificates",
+      "name": "EV SSL Certificate",
+      "slug": "ev-ssl",
+      "description": "Most advanced protection for e-commerce and payment websites.",
+      "price": 500000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "Secure customer information",
+        "May help boost Google rankings",
+        "TrustLogo Site Seal",
+        "Protect multiple subdomains",
+        "Enhanced e-commerce conversion",
+        "Green trust visual bar"
+      ],
+      "order_url": "https://core.code5.ug/order/ev-ssl"
+    },
+    {
+      "id": "email-business-starter",
+      "category": "email-hosting",
+      "category_name": "Email Hosting",
+      "name": "Google Workspace Business Starter",
+      "slug": "workspace-business-starter",
+      "description": "Custom and secure business email with Google Workspace.",
+      "price": 290000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "100 participant video meetings",
+        "30 GB storage per user",
+        "Security and management controls"
+      ],
+      "order_url": "https://core.code5.ug/order/workspace-starter"
+    },
+    {
+      "id": "email-business-standard",
+      "category": "email-hosting",
+      "category_name": "Email Hosting",
+      "name": "Google Workspace Business Standard",
+      "slug": "workspace-business-standard",
+      "description": "More storage and enhanced video meetings with recording.",
+      "price": 580000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": true,
+      "features": [
+        "150 participant video meetings + recording",
+        "2 TB storage per user",
+        "Security and management controls"
+      ],
+      "order_url": "https://core.code5.ug/order/workspace-standard"
+    },
+    {
+      "id": "email-business-plus",
+      "category": "email-hosting",
+      "category_name": "Email Hosting",
+      "name": "Google Workspace Business Plus",
+      "slug": "workspace-business-plus",
+      "description": "Enterprise email with eDiscovery, retention, and enhanced security.",
+      "price": 870000,
+      "currency": "UGX",
+      "period": "year",
+      "popular": false,
+      "features": [
+        "500 participant video meetings + recording, attendance tracking",
+        "5 TB storage per user",
+        "Enhanced security, Vault, and advanced endpoint management"
+      ],
+      "order_url": "https://core.code5.ug/order/workspace-plus"
+    }
+  ],
+  "total": 26
+}
