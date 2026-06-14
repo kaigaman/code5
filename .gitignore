@@ -1,0 +1,13 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/code5-upload-key.jks
+android/keystore.properties
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
